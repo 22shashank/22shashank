@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Shashank 👋
 
-<!--
-**22shashank/22shashank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Student & Developer
+⚛️ React | Node.js | Go
+🧠 Currently building stuff & breaking stuff
+🚀 Learning by shipping
+☕ Code → Debug → Repeat
 
-Here are some ideas to get you started:
+### 🔨 Currently Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🤖 AI & Web projects
+* 🚀 Backend projects with Go
+* 🧩 DSA & problem solving
+
+### 🛠️ Tech I Use
+
+`JavaScript` `React` `Node.js` `Express` `MongoDB` `MySQL` `Go` `Git`
+
+### 📊 A Little About Me
+
+* 🎯 Trying to become a better developer every day
+* 🏋️ Gym + 💻 Code = balance
+* 🐛 I create bugs just to fix them
+
+### 🤝 Let's Connect
+
+💼 LinkedIn: **Shashank Singh**
+🐙 GitHub: **@22shashank**
+
+---
+
+> *"Still learning. Still building. Still shipping."* 🚀
